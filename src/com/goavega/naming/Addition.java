@@ -19,5 +19,11 @@ public class Addition {
 		
 
 	}
+	
+	
+	public static int add() {
+		return 2;
+	}
+	
 
 }
